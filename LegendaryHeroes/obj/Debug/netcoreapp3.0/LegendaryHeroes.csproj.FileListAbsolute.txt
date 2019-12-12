@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\bin\Debug\netcoreapp3.0\LegendaryHeroes.exe
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\bin\Debug\netcoreapp3.0\LegendaryHeroes.deps.json
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\bin\Debug\netcoreapp3.0\LegendaryHeroes.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\bin\Debug\netcoreapp3.0\LegendaryHeroes.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\bin\Debug\netcoreapp3.0\LegendaryHeroes.dll
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\bin\Debug\netcoreapp3.0\LegendaryHeroes.pdb
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\obj\Debug\netcoreapp3.0\LegendaryHeroes.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\obj\Debug\netcoreapp3.0\LegendaryHeroes.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\obj\Debug\netcoreapp3.0\LegendaryHeroes.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\obj\Debug\netcoreapp3.0\LegendaryHeroes.dll
+C:\Users\julia.voronetskaja\source\repos\LegendaryHeroes\LegendaryHeroes\obj\Debug\netcoreapp3.0\LegendaryHeroes.pdb
